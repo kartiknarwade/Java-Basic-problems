@@ -1,4 +1,3 @@
-
 import java.io.*;
 import java.util.*;
 
@@ -9,9 +8,6 @@ class GFG {
         System.out.println("~");
     }
 }
-
-
-
 
 class Solution {
     static void printHelloWorld() {
