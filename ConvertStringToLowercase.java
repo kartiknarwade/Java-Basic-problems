@@ -4,7 +4,7 @@
 import java.util.*;
 import java.io.*;
 
-class GFG {
+class ConvertStringToLowercase {
     public static void main(String args[]) throws IOException {
         BufferedReader read =
             new BufferedReader(new InputStreamReader(System.in));
