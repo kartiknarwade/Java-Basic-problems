@@ -1,16 +1,16 @@
 import java.io.*;
 import java.util.*;
 
-class GFG {
+class PrintHelloWorld {
     public static void main(String args[]) throws IOException {
         Solution ob = new Solution();
-        ob.printHelloWorld();
+        ob.PrintHelloWorld();
         System.out.println("~");
     }
 }
 
 class Solution {
-    static void printHelloWorld() {
+    static void PrintHelloWorld() {
         
         System.out.println("Hello World");
     }
