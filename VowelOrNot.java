@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-class GFG
+class VowelOrNot
 {
     static class FastReader{ 
 		BufferedReader br; 
