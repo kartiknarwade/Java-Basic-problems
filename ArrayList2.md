@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 //Initial Template for Java
 import java.io.*;
@@ -48,3 +52,5 @@ System.out.println("~");
 
     }
 }
+
+```

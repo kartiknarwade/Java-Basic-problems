@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 //Initial Template for Java
 import java.io.*;
@@ -33,3 +37,4 @@ class Solution{
         System.out.println("The input integer :"+N);
     }
 }
+```

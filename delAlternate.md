@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 // Initial template for Java
 
@@ -33,3 +37,4 @@ class Solution {
         return str;
     }
 }
+```

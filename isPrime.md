@@ -1,10 +1,14 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
-//Initial Template for Java
+
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class SumOfN
+class isPrime
 {
     public static void main(String[] args) throws IOException
     {
@@ -12,9 +16,9 @@ class SumOfN
         int T = Integer.parseInt(br.readLine().trim());
         while(T-->0)
         {
-            int n = Integer.parseInt(br.readLine().trim());
+            int N = Integer.parseInt(br.readLine().trim());
             Solution ob = new Solution();
-            int ans = ob.find(n);
+            int ans = ob.isPrime(N);
             System.out.println(ans);
         }
     }
@@ -23,24 +27,24 @@ class SumOfN
 // } Driver Code Ends
 
 
-//User function Template for Java
+
 
 class Solution
 {
-    public int find(int n)
+    public int isPrime(int N)
     {
         // code here
-        if(n<=1){
-            return n;
+         if (N <= 1) {
+            return 0;  
         }
-        int sum=0;
-        for(int i=1;i<n;i++){
-            sum+=i;
-            if(sum==n){
-                return i;
+
+        for (int i = 2; i <= Math.sqrt(N); i++) {
+            if (N % i == 0) {
+                return 0;  
             }
-            
         }
-        return -1;
+
+        return 1;  
     }
 }
+```

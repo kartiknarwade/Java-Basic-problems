@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 // Initial Template for Java
 
@@ -37,3 +41,4 @@ class Solution{
         return (choice==1)?(Math.PI*arr.get(0)*arr.get(0)):arr.get(0)*arr.get(1);
     }
 }
+```

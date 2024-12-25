@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 // Java program to demonstrate working of Scanner in Java
 import java.util.*;
@@ -64,3 +68,4 @@ class Complete
         return ans;
     }
 }
+```

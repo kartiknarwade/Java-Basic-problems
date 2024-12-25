@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 import java.io.*;
 import java.util.*;
 
@@ -15,3 +19,4 @@ class Solution {
         System.out.println("Hello World");
     }
 }
+```

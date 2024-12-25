@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;
@@ -62,3 +66,4 @@ System.out.println("~");
     }
 }
 // } Driver Code Ends
+```

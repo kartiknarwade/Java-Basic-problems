@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;
@@ -42,3 +46,5 @@ class Solution {
         return c;
     }
 };
+
+```

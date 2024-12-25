@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 //Initial Template for Java
 /*package whatever //do not write package name here */
@@ -39,3 +43,5 @@ class Geeks {
     }
 }
 
+
+```

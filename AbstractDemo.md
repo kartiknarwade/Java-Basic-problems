@@ -1,3 +1,7 @@
+## Question
+
+### Code
+```java
 //{ Driver Code Starts
 //Initial Template for Java
 import java.io.*;
@@ -45,3 +49,4 @@ class B extends A
 //{ Driver Code Starts.
 
 // } Driver Code Ends
+```
