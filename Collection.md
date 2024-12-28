@@ -1,4 +1,7 @@
-//{ Driver Code Starts
+## Question
+
+### Code
+```java//{ Driver Code Starts
 //Initial Template for Java
 
 
@@ -75,3 +78,4 @@ class GFG
 
 //{ Driver Code Starts.
 // } Driver Code Ends
+```
