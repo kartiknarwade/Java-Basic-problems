@@ -2,7 +2,8 @@
 ## Question
 
 ### Code
-```java//{ Driver Code Starts
+```java
+//{ Driver Code Starts
 // Initial Template for Java
 
 import java.io.*;
